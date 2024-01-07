@@ -15,3 +15,12 @@ const propertyName = 'tracks'
 // console.log(playlist.propertyName);
 // console.log(propertyName.propertyName);
 // console.log(playlist[propertyName]);
+
+const username = 'Mango';
+const email = 'mango@gmail.com';
+
+const signupData = {
+    username: username,
+    email: email,
+};
+console.log(signupData);
